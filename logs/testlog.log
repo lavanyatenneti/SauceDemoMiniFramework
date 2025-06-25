@@ -1,0 +1,239 @@
+2025-06-24 12:03:02 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 12:03:03 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 12:10:33 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 12:10:34 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 12:11:37 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 12:11:38 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 12:18:54 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 12:18:54 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 12:18:56 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 12:18:58 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 12:22:36 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 12:22:36 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 12:22:39 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 12:22:39 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 12:22:39 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 12:22:41 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 12:22:41 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 12:22:41 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 12:22:41 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 12:22:42 [main] INFO  Pages.CheckoutPage - Checkout details
+2025-06-24 12:22:42 [main] INFO  base.BaseTest - Checkout process is successful
+2025-06-24 12:22:42 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:10:26 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:10:26 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:10:30 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:10:30 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:10:30 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:10:32 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:10:32 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:10:34 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:10:34 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:10:35 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:10:35 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:10:37 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:10:37 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 15:10:37 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 15:10:38 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 15:10:55 [main] INFO  Pages.CheckoutPage - Checkout details
+2025-06-24 15:10:55 [main] INFO  base.BaseTest - Checkout process is successful
+2025-06-24 15:10:55 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:14:44 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:14:45 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:14:47 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:14:47 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:14:47 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:14:49 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:14:49 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:14:51 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:14:51 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:14:53 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:14:53 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:14:55 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:14:55 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 15:14:55 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 15:14:55 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 15:14:55 [main] INFO  Pages.CheckoutPage - Checkout details
+2025-06-24 15:14:55 [main] INFO  base.BaseTest - Checkout process is successful
+2025-06-24 15:14:56 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:19:15 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:19:15 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:19:17 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:19:17 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:19:18 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:19:19 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:19:19 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:19:21 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:19:21 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:19:23 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:19:23 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:21:12 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:21:12 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:21:14 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:21:14 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:21:14 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:21:16 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:21:16 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:21:18 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:21:18 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:21:19 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:21:20 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:22:51 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:22:51 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:22:54 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:22:54 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:22:54 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:22:56 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:22:56 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:22:58 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:22:58 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:22:59 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:23:00 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:24:19 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:24:19 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:24:21 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:24:21 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:24:21 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:24:23 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:24:23 [main] INFO  base.BaseTest - falseand current url is:https://www.saucedemo.com/
+2025-06-24 15:24:23 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:24:25 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:24:25 [main] INFO  base.BaseTest - falseand current url is:https://www.saucedemo.com/
+2025-06-24 15:24:25 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:24:27 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:24:27 [main] INFO  base.BaseTest - falseand current url is:https://www.saucedemo.com/inventory.html
+2025-06-24 15:24:27 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:26:46 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:26:47 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:26:49 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:26:49 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:26:49 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:26:51 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:26:51 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:26:53 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:26:53 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:26:55 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:26:55 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:27:05 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:27:05 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:27:07 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:27:07 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:27:07 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:27:09 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:27:09 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:27:11 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:27:11 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:27:13 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:27:13 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:27:15 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:27:15 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 15:27:15 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 15:27:15 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 15:27:16 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 15:39:08 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 15:39:08 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:39:11 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:39:11 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 15:39:11 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:39:13 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:39:13 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:39:15 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:39:15 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:39:17 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:39:17 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 15:39:19 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 15:39:19 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 15:39:19 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 15:39:19 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 15:39:19 [main] INFO  Pages.CheckoutPage - Checkout details
+2025-06-24 15:39:19 [main] INFO  base.BaseTest - Checkout process is successful
+2025-06-24 15:39:20 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 16:30:46 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 16:30:46 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:30:49 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:30:49 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 16:30:49 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:30:51 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:30:51 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:30:53 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:30:53 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:30:55 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:30:55 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:30:57 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:30:57 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 16:30:57 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 16:30:57 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 16:30:58 [main] INFO  Pages.CheckoutPage - Checkout details
+2025-06-24 16:30:58 [main] INFO  base.BaseTest - Checkout process is successful
+2025-06-24 16:30:58 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 16:47:27 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 16:47:27 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:47:30 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:47:30 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 16:47:30 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 16:47:30 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 16:47:31 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:47:32 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:47:33 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 16:47:33 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 16:47:33 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 16:47:33 [main] INFO  Pages.CheckoutPage - Checkout details
+2025-06-24 16:47:33 [main] INFO  base.BaseTest - Checkout process is successful
+2025-06-24 16:47:34 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 16:53:58 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 16:53:59 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:54:01 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:54:01 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 16:54:01 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 16:54:02 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 16:54:02 [main] INFO  Pages.CheckoutPage - Checkout details
+2025-06-24 16:54:02 [main] INFO  base.BaseTest - Checkout process is successful
+2025-06-24 16:54:03 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 16:55:32 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 16:55:32 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:55:37 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:55:37 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 16:55:37 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:55:39 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:55:39 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:55:41 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:55:41 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:55:42 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:55:43 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:55:44 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:55:44 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 16:55:44 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 16:55:45 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 16:56:05 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 16:56:07 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 16:56:07 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 16:56:07 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 16:56:07 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 16:56:08 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-24 17:02:00 [main] INFO  base.BaseTest - Setting up Report
+2025-06-24 17:02:01 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 17:02:03 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 17:02:03 [main] INFO  base.BaseTest - ValidLogin is successful
+2025-06-24 17:02:03 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 17:02:05 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 17:02:05 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 17:02:07 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 17:02:07 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 17:02:09 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 17:02:09 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 17:02:11 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 17:02:11 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 17:02:11 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 17:02:11 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 17:02:32 [main] INFO  base.BaseTest - Browser setup
+2025-06-24 17:02:34 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-24 17:02:34 [main] INFO  Pages.HomePage - items are added to Add toCart 
+2025-06-24 17:02:34 [main] INFO  Pages.HomePage - Cart link is opened 
+2025-06-24 17:02:34 [main] INFO  Pages.CartPage - Proceed checkout method
+2025-06-24 17:02:55 [main] INFO  base.BaseTest - TestExecution completed
+2025-06-25 12:17:46 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-25 12:17:48 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-25 12:17:49 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-25 12:18:38 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-25 12:18:40 [main] INFO  Pages.LoginPage - Login details entered
+2025-06-25 12:18:42 [main] INFO  Pages.LoginPage - Login details entered
