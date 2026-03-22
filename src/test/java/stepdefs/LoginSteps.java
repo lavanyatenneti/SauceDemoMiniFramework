@@ -35,7 +35,7 @@ public class LoginSteps extends BaseTest
          String currentUrl = DriverFactory.getDriver().getCurrentUrl();
          boolean success = currentUrl.contains("inventory");
          boolean failure = currentUrl.contains("demo");
-
+        System.out.println("Login");
          Assert.assertTrue(success || failure, "Redirection outcome is unclear");
         
     }

@@ -31,4 +31,4 @@ Feature: SauceDemo Login
       | username         | password      |
       | standard_user    | secret_sauce  |
       | locked_out_user  | secret_sauce  |
-      | invalid_user     | wrong_pass    |
+      | invalid_user1     | wrong_pass    |
