@@ -28,6 +28,7 @@ public class LoginSteps extends BaseTest
     @And("clicks the login button")
     public void clicks_the_login_button() {
             // already clicked inside login() method
+        System.out.println("Clicks login button");
     }
 
     @Then("the user should be redirected based on the outcome")
